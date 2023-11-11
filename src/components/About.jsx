@@ -26,7 +26,7 @@ const About = () => {
           <User2 />
 
           <figcaption className="flex flex-col gap-2">
-            <span className="text-csi-secondary-light">Profession</span>
+            <span className="text-csi-secondary-light">Prof. Nileema Pathak</span>
             <span className="text-xs md:text-sm lg:text-base">
               Faculty Coordinator
             </span>

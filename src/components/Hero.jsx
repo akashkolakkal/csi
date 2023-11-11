@@ -4,12 +4,12 @@ import Container from "./containers/Container";
 const Hero = () => {
   return (
     <Container>
-      <main className="flex flex-col justify-center gap-6 min-h-[90svh]">
+      <main className="flex flex-col justify-center gap-6 min-h-[92svh]">
         <span className="text-csi-primary-light uppercase text-sm md:text-base font-semibold">
           Welcome to
         </span>
         <h1 className="font-black text-lg sm:text-xl md:text-3xl lg:text-6xl xl:text-7xl text-csi-secondary-light">
-          CSI <span className="text-csi-primary-light">-</span> Atharva
+          CSI <span className="text-csi-primary-light">-</span> ACE
         </h1>
         <h3 className="font-black text-md sm:text-lg md:text-xl lg:text-2xl">
           Think <span className="text-csi-primary-light">.</span> Improvise{" "}

@@ -29,27 +29,27 @@ const Footer = () => {
             </p>
 
             <div className="flex gap-2 md:gap-3 font-semibold">
-              <Mail /> :{" "}
+              <Mail /> Email :{" "}
               <span className="text-csi-secondary-light font-normal text-sm sm:text-base md:text-lg lg:text-xl">
-                CSI Email
+                csiace@gmail.com
               </span>
             </div>
             <div className="flex gap-2 md:gap-3 font-semibold">
-              <Phone /> :{" "}
+              <Phone /> Arnav Sangekar :{" "}
               <span className="text-csi-secondary-light font-normal text-sm sm:text-base md:text-lg lg:text-xl">
-                0123456789
+              +91 9136833103
               </span>
             </div>
             <div className="flex gap-2 md:gap-3 font-semibold">
-              <Phone /> :{" "}
+              <Phone /> Amey Pandit :{" "}
               <span className="text-csi-secondary-light font-normal text-sm sm:text-base md:text-lg lg:text-xl">
-                0123456789
+              +91 9702153712
               </span>
             </div>
             <div className="flex gap-2 md:gap-3 font-semibold">
-              <Phone /> :{" "}
+              <Phone /> Ritik Yadav :{" "}
               <span className="text-csi-secondary-light font-normal text-sm sm:text-base md:text-lg lg:text-xl">
-                0123456789
+              +91 8291563516
               </span>
             </div>
           </div>
